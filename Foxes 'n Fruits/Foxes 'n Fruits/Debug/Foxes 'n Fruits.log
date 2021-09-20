@@ -1,0 +1,14 @@
+﻿  Foxes 'n Fruits.cpp
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(120,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(120,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(270,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(270,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(307,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Menu.h(307,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\MoveMouse.h(73,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\CheckThirdGenerate.h(8,11): warning C4101: c: неиспользованная локальная переменная
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\CheckThirdGenerate.h(37,11): warning C4101: c: неиспользованная локальная переменная
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Foxes 'n Fruits.cpp(76,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Foxes 'n Fruits.cpp(70,11): warning C4101: c: неиспользованная локальная переменная
+D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Foxes 'n Fruits\Foxes 'n Fruits.cpp(71,11): warning C4101: position: неиспользованная локальная переменная
+  Foxes 'n Fruits.vcxproj -> D:\Новая папка (3)\Домашка\С++\Bifinici\Foxes 'n Fruits\Debug\Foxes 'n Fruits.exe
